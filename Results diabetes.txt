@@ -1,0 +1,2 @@
+
+Result : Maximum accuracy achieved is 0.821 for Logistic Regression out of Logistic Regression, Decision Tree and KNN algorithms
